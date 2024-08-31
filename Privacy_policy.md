@@ -11,3 +11,5 @@ Dziękujemy za korzystanie z aplikacji Orlik: Twój Przewodnik (dalej zwanej "Ap
 - **Kontakt Z Nami:** Jeśli masz jakiekolwiek pytania dotyczące tej Polityki Prywatności, skontaktuj się z nami pod adresem [orlik.dev@gmail.com](mailto:orlik.dev@gmail.com).
 
 Korzystając z Aplikacji, zgadzasz się na zbieranie i wykorzystanie informacji zgodnie z tą Polityką Prywatności. Jeśli nie zgadzasz się z tą Polityką Prywatności, prosimy o niekorzystanie z Aplikacji.
+
+[Warunki użytkowania](https://github.com/OrlikTwojPrzewodnik/public/blob/main/Terms_of_usage.md)
