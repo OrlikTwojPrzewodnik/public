@@ -2,6 +2,8 @@
 
 Niniejszy Regulamin ("Regulamin") reguluje dostęp i korzystanie z aplikacji mobilnej Orlik: Twój Przewodnik ("Aplikacja"), w tym wszelkich treści, funkcji i usług świadczonych w niej. Korzystając z Aplikacji, zgadzasz się być związany niniejszymi Warunkami. Jeśli nie zgadzasz się na te Warunki, prosimy o niekorzystanie z Aplikacji.
 
+**Uwaga:** Źródłem informacji zawartych w aplikacji są dane z oficjalnych stron internetowych, takich jak gov.pl, prezydent.pl, bigness.gov.pl oraz odpowiednich stron urzędów administracyjnych. Aplikacja zawiera również artykuły opisujące procedury dotyczące miast wojewódzkich, które zawierają linki do właściwych urzędów rządowych. Część artykułów została napisana przez nasz zespół i ma charakter edukacyjny. Prosimy zauważyć, że aplikacja nie jest oficjalną aplikacją rządową ani nie jest powiązana z żadnym organem rządowym. Informacje zawarte w aplikacji mają charakter informacyjny i są oparte na publicznie dostępnych źródłach.
+
 ### **Własność intelektualna**
 
 a. Aplikacja i wszystkie jej treści, w tym między innymi teksty, grafiki, zdjęcia, filmy, dźwięki, oprogramowanie i inne materiały ("Treści"), są własnością zespołu utrzymującego aplikację lub jej licencjodawców i są chronione prawami autorskimi.
@@ -45,3 +47,6 @@ Niniejsze Warunki podlegają i będą interpretowane zgodnie z prawem Rzeczpospo
 ### **Kontakt**
 
 Jeśli masz jakiekolwiek pytania lub obawy dotyczące niniejszych Warunków, skontaktuj się z nami pod adresem orlik.dev@gmail.com.
+
+[Polityka prywatności](https://github.com/OrlikTwojPrzewodnik/public/blob/main/Privacy_policy.md)
+
