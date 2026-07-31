@@ -2,13 +2,27 @@
 
 Niniejszy Regulamin ("Regulamin") reguluje dostęp i korzystanie z aplikacji mobilnej Orlik: Twój Przewodnik ("Aplikacja"), w tym wszelkich treści, funkcji i usług świadczonych w niej. Korzystając z Aplikacji, zgadzasz się być związany niniejszymi Warunkami. Jeśli nie zgadzasz się na te Warunki, prosimy o niekorzystanie z Aplikacji.
 
-**Uwaga:** Źródłem informacji zawartych w aplikacji są dane z oficjalnych stron internetowych, takich jak gov.pl, prezydent.pl, bigness.gov.pl oraz odpowiednich stron urzędów administracyjnych. Aplikacja zawiera również artykuły opisujące procedury dotyczące miast wojewódzkich, które zawierają linki do właściwych urzędów rządowych. Część artykułów została napisana przez nasz zespół i ma charakter edukacyjny. Prosimy zauważyć, że aplikacja nie jest oficjalną aplikacją rządową ani nie jest powiązana z żadnym organem rządowym. Informacje zawarte w aplikacji mają charakter informacyjny i są oparte na publicznie dostępnych źródłach.
+_Ostatnia aktualizacja: 31 lipca 2026 r._
+
+**Uwaga:** Źródłem informacji zawartych w aplikacji są dane z oficjalnych stron internetowych, takich jak gov.pl, prezydent.pl, biznes.gov.pl oraz odpowiednich stron urzędów administracyjnych. Aplikacja zawiera również artykuły opisujące procedury dotyczące miast wojewódzkich, które zawierają linki do właściwych urzędów rządowych. Część artykułów została napisana przez nasz zespół i ma charakter edukacyjny. Prosimy zauważyć, że aplikacja nie jest oficjalną aplikacją rządową ani nie jest powiązana z żadnym organem rządowym. Informacje zawarte w aplikacji mają charakter informacyjny i są oparte na publicznie dostępnych źródłach.
+
+### **Dane o punktach schronienia i licencja**
+
+a. Dane o punktach schronienia pochodzą ze zbioru [„Punkty schronienia w Polsce”](https://dane.gov.pl/pl/dataset/28058,punkty-schronienia-w-polsce/resource/1393918), udostępnionego w portalu dane.gov.pl przez Komendę Główną Państwowej Straży Pożarnej.
+
+b. Informacje sektora publicznego zawarte w tym zbiorze, które spełniają cechy utworu lub stanowią bazę danych, są ponownie wykorzystywane na warunkach licencji [Creative Commons Uznanie autorstwa 4.0 Międzynarodowe (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pl).
+
+c. Na potrzeby Aplikacji dane zostały pobrane, technicznie znormalizowane i przekształcone z pliku CSV do lokalnej bazy SQLite. Aplikacja filtruje dane według województwa oraz oblicza i prezentuje odległość od lokalizacji urządzenia użytkownika. Są to zmiany sposobu przechowywania i prezentacji danych. Lokalna kopia może odpowiadać wcześniejszej wersji zbioru niż wersja aktualnie dostępna w portalu dane.gov.pl.
+
+d. Licencja CC BY 4.0 dotyczy wskazanego zbioru danych i nie oznacza, że Komenda Główna Państwowej Straży Pożarnej lub portal dane.gov.pl popierają Aplikację albo są z nią powiązane.
 
 ### **Własność intelektualna**
 
 a. Aplikacja i wszystkie jej treści, w tym między innymi teksty, grafiki, zdjęcia, filmy, dźwięki, oprogramowanie i inne materiały ("Treści"), są własnością zespołu utrzymującego aplikację lub jej licencjodawców i są chronione prawami autorskimi.
 
 b. Nie wolno modyfikować, reprodukować, wykonywać ani tworzyć utworów pochodnych z żadnej Treści bez wcześniejszej pisemnej zgody zespołu utrzymującego aplikację.
+
+c. Powyższe ograniczenia nie naruszają praw użytkownika wynikających z licencji dotyczących treści lub danych podmiotów trzecich, w szczególności licencji CC BY 4.0 opisanej powyżej.
 
 ### **Korzystanie z Treści**
 
@@ -38,7 +52,7 @@ Zgadzasz się zabezpieczyć, bronić i nie obciążać zespołu utrzymującego a
 
 ### **Modyfikacje**
 
-Zastrzegamy sobie prawo do modyfikowania, zawieszania lub przerywania Aplikacji lub jej części w dowolnym czasie bez wcześniejszego powiadomienia. Możemy również dokonywać zmian w niniejszych Warunkach od czasu do czasu. Kontynuowanie korzystania z Aplikacji po wejściu w życie zmian w niniejszych Warunkach oznacza akceptację tych zmian.//n
+Zastrzegamy sobie prawo do modyfikowania, zawieszania lub przerywania Aplikacji lub jej części w dowolnym czasie bez wcześniejszego powiadomienia. Możemy również dokonywać zmian w niniejszych Warunkach od czasu do czasu. Kontynuowanie korzystania z Aplikacji po wejściu w życie zmian w niniejszych Warunkach oznacza akceptację tych zmian.
 
 ### **Prawo właściwe**
 
@@ -49,4 +63,3 @@ Niniejsze Warunki podlegają i będą interpretowane zgodnie z prawem Rzeczpospo
 Jeśli masz jakiekolwiek pytania lub obawy dotyczące niniejszych Warunków, skontaktuj się z nami pod adresem orlik.dev@gmail.com.
 
 [Polityka prywatności](https://github.com/OrlikTwojPrzewodnik/public/blob/main/Privacy_policy.md)
-
